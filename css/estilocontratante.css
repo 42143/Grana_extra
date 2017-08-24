@@ -1,0 +1,43 @@
+*{margin:0;}
+body{background-image:url (../imagens/asda.png);}
+header{position:relative;background:#777777;top:0px;width:100%;height:60px;z-index:3;z-index:1;}
+.logo{margin:auto; position:absolute; margin-top:-15px;z-index:2;}
+.container{margin:auto; height:475px; width:100%; margin-top:0px; background-color:#00A859; position:absolute;}
+.content{width:1030px; height:533px;  position:absolute; margin:auto; position:relative; margin-top:-60px;z-index:3;}
+.content2{width:1030px; height:533px;  position:absolute; margin:auto; position:relative; margin-top:100px;z-index:3;}
+
+.menu{width:150px; height:40px; margin-top:15px;margin-left:85%;}
+.btmenu{width:120px; height:20px; text-align:center; padding:4%; color:#fff; border:solid 1px #fff; font-family:arial; font-size:15px; cursor:pointer;float:left;}
+.btmenu:hover{background-color:#fff; color:#777777; transition:0.6s;}
+a{text-decoration:none; color:#fff;}
+.btmenu{transition:0.6s;}
+.vetor{width:530px; height:384px;  margin-top:94px;}
+.informacao{font-size:25px;width:400px; height:300px;  margin-left:600px; margin-top:-320px; text-align:center; font-family:arial; color:#fff;}
+.informacao2{width:350px height:30px;  font-size:18px; text-align:center;}
+.bt-cadastrar{width:200px; padding:10px; height:25px; border:solid #fff 1px; margin-left:80px; margin-top:50px; cursor:pointer;}
+.bt-cadastrar:hover{background-color:#fff; color:#00A859; transition:0.6s;}
+.bt-cadastrar{ transition:0.6s;}
+.titulo{font-family:verdana; font-size:30px; color:#777777; margin-top:100px; margin-left:250px;}
+.titulo2{font-family:sans-serif; font-size:30px; color:#fff; margin-top:-400px; margin-left:200px; width:400px; text-align:justify; height:100px;}
+.content3{width:100%;  float:left; margin-top:80px;}
+.img1{width:229px; height:229px; margin-left:100px;margin-top:10px; position:absolute;}
+.img2{width:229px; height:229px;  margin-left:400px; margin-top:10px; position:absolute;}
+.img3{width:229px; height:229px;  margin-left:700px; margin-top:10px;position:absolute;} 
+.conteudo{margin-left:110px;text-align:center;width:200px; height:100px; margin-top:250px; font-size:18px; font-family:arial;color:#666666}
+.conteudo2{margin-left:360px;text-align:center;width:300px; height:100px; margin-top:-101px; font-size:18px; font-family:arial;color:#666666}
+.conteudo3{margin-left:715px;text-align:center;width:200px; height:100px;margin-top:-101px; font-size:18px; font-family:arial;color:#666666}
+hr{margin-top:100px; border:solid 1px #cecece;}
+.fundo{width:100%; margin-top:100px;}
+.bt-cadastrar2{width:360px; height:20px; text-align:center; padding:20px; font-size:18px; font-family:arial; border:solid 1px #fff;z-index:10; position:absolute; margin-left:200px; margin-top:80px;color:#fff;}
+.bt-cadastrar2:hover{background-color:#fff; color:#000; transition:0.6s;}
+.bt-cadastrar2{ transition:0.6s;}
+footer{ height:50px; width:100%;position:absolute; margin-top:290px; background-color:#777777;}
+label{ margin-top:20px; position:absolute; font-family:arial; margin-left:80px;color:#fff;}
+
+
+
+
+
+
+
+

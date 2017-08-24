@@ -1,0 +1,1847 @@
+.NET Compact Framework	
+.NET Framework		
+.NET para Web		
+.NET Remoting		
+1ShoppingCart		
+3DS Max		
+3GSM		
+A2Billing		
+Ab Initio		
+Abaqus
+AbleCommerce
+Ableton Live
+Abstract Window Toolkit (AWT)
+Absynth	
+AccountMate
+ACDSee
+ACID Pro
+ACPI
+Acrobat
+Acrobat X
+Acronis
+ACT!
+Actian
+ActionScript
+ActionScript 3
+Active Directory
+Active Listening
+ActiveCollab
+ActiveX
+ActiveX Data Objects (ADO)
+Ada
+Adianti Framework
+ADK
+Administração
+Administração de Redes
+ADO.NET
+ADO.NET Entity Framework
+Adobe AIR
+Adobe Audition
+Adobe Bridge
+Adobe Captivate
+Adobe Captivate 5
+Adobe Catalyst
+Adobe Connect
+Adobe Creative Suite
+Adobe CS5
+Adobe Discover
+Adobe Flash Player
+Adobe Genesis
+Adobe Insight
+Adobe Lightroom
+Adobe Master Colletion Cs5 
+Adobe Merchandising
+Adobe OnLocation
+Adobe Premiere
+Adobe Premiere
+Adobe Premiere Elements
+Adobe Premiere Express
+Adobe Publish
+Adobe Recommendations
+Adobe SearchCenter
+Adobe SiteSearch
+Adobe Survey
+Adobe Web Fonts
+ADVA
+Advergames		
+Advert Games
+AdWords
+Aerografia
+After Effects
+AGAL		
+									
+										<option value="803">Agilidade</option>		
+									
+										<option value="907">Agilidade </option>		
+									
+										<option value="604">Agronegócio</option>		
+									
+										<option value="953">AISC</option>		
+									
+										<option value="954">AIX</option>		
+									
+										<option value="39">AJAX</option>		
+									
+										<option value="639">Alemão</option>		
+									
+										<option value="685">Alemão Básico </option>		
+									
+										<option value="75">Algoritmo</option>		
+									
+										<option value="281">Amazon Kindle</option>		
+									
+										<option value="294">Amazon Web Services</option>		
+									
+										<option value="662">Ambientes</option>		
+									
+										<option value="955">AMQP</option>		
+									
+										<option value="303">Análise de Métricas</option>		
+									
+										<option value="908">Análise de Projetos</option>		
+									
+										<option value="263">Análise de Requisitos</option>		
+									
+										<option value="613">Análise Semiótica</option>		
+									
+										<option value="47">Android</option>		
+									
+										<option value="920">AngularJS</option>		
+									
+										<option value="89">Animação</option>		
+									
+										<option value="934">Animação 2D</option>		
+									
+										<option value="369">Animação 3D</option>		
+									
+										<option value="956">ANSI C</option>		
+									
+										<option value="957">ANSYS</option>		
+									
+										<option value="958">AP Style Writing</option>		
+									
+										<option value="959">APAC</option>		
+									
+										<option value="196">Apache</option>		
+									
+										<option value="288">Apache Solr</option>		
+									
+										<option value="20">Aplicações Desktop</option>		
+									
+										<option value="754">Apple Developer</option>		
+									
+										<option value="753">Apple Script</option>		
+									
+										<option value="532">Apresentador</option>		
+									
+										<option value="589">Apresentador de TV</option>		
+									
+										<option value="526">Apuração</option>		
+									
+										<option value="804">Aquarela</option>		
+									
+										<option value="853">Aquarela</option>		
+									
+										<option value="981">Aquisições</option>		
+									
+										<option value="686">Archicad</option>		
+									
+										<option value="962">ARCserve</option>		
+									
+										<option value="904">Arduino</option>		
+									
+										<option value="963">ARM</option>		
+									
+										<option value="68">Arquitetura</option>		
+									
+										<option value="97">Arquitetura de Informação</option>		
+									
+										<option value="98">Arquitetura de Software</option>		
+									
+										<option value="687">Arquivologia</option>		
+									
+										<option value="108">Arte e Artesanato</option>		
+									
+										<option value="163">Arte-Final</option>		
+									
+										<option value="688">Artes Plásticas</option>		
+									
+										<option value="156">Artigos</option>		
+									
+										<option value="176">Artigos Acadêmicos</option>		
+									
+										<option value="157">Artigos de Ficção</option>		
+									
+										<option value="219">Artigos de Turismo</option>		
+									
+										<option value="175">Artigos Esportivos</option>		
+									
+										<option value="177">Artigos Médicos</option>		
+									
+										<option value="599">ArtRage Studio Pro</option>		
+									
+										<option value="879">AS2</option>		
+									
+										<option value="880">AS3</option>		
+									
+										<option value="964">ASIO</option>		
+									
+										<option value="965">ASME</option>		
+									
+										<option value="3">ASP</option>		
+									
+										<option value="579">Asp.Net</option>		
+									
+										<option value="966">ASP.NET MVC</option>		
+									
+										<option value="490">Assessoria de Imprensa</option>		
+									
+										<option value="567">Assistencia de Direção</option>		
+									
+										<option value="541">Assistente de Direção</option>		
+									
+										<option value="111">Assistente Virtual</option>		
+									
+										<option value="559">Atendimento</option>		
+									
+										<option value="560">Atendimento a Cliente </option>		
+									
+										<option value="664">Atendimento Ao Publico </option>		
+									
+										<option value="529">Ativação</option>		
+									
+										<option value="967">ATL</option>		
+									
+										<option value="660">Atualização De Site </option>		
+									
+										<option value="616">Audacity</option>		
+									
+										<option value="291">Audit</option>		
+									
+										<option value="375">Authorware 7</option>		
+									
+										<option value="249">AutoCAD</option>		
+									
+										<option value="923">Autodesk Inventor</option>		
+									
+										<option value="969">AVEVA PDMS</option>		
+									
+										<option value="466">AVID</option>		
+									
+										<option value="796">Avid Media Composer </option>		
+									
+										<option value="971">AWeber</option>		
+									
+										<option value="970">AWK</option>		
+									
+										<option value="144">Axure</option>		
+									
+										<option value="257">Azure</option>		
+									
+										<option value="225">Balsamiq</option>		
+									
+										<option value="689">Banco De Dados</option>		
+									
+										<option value="117">Beleza</option>		
+									
+										<option value="870">Bilíngue </option>		
+									
+										<option value="115">Blackberry</option>		
+									
+										<option value="606">Blender 3D</option>		
+									
+										<option value="61">Blog</option>		
+									
+										<option value="690">Blogs</option>		
+									
+										<option value="251">BMC Remedy</option>		
+									
+										<option value="912">Boa Escrita</option>		
+									
+										<option value="342">Book Writing</option>		
+									
+										<option value="653">Bookdesign</option>		
+									
+										<option value="597">Boujou</option>		
+									
+										<option value="237">BPO</option>		
+									
+										<option value="80">Branding</option>		
+									
+										<option value="867">Branding Digital</option>		
+									
+										<option value="376">BrowserLab</option>		
+									
+										<option value="839">Btl</option>		
+									
+										<option value="181">Buscadores</option>		
+									
+										<option value="347">Business Catalyst</option>		
+									
+										<option value="925">Business Intelligence</option>		
+									
+										<option value="669">C++/Bada</option>		
+									
+										<option value="62">CAD/CAM</option>		
+									
+										<option value="216">CakePHP</option>		
+									
+										<option value="794">Cammate</option>		
+									
+										<option value="861">Canon 550D</option>		
+									
+										<option value="495">Canon 7d/5d</option>		
+									
+										<option value="287">Capture NX2</option>		
+									
+										<option value="849">Capture One </option>		
+									
+										<option value="215">Caricatura</option>		
+									
+										<option value="44">Carrinho de Compras</option>		
+									
+										<option value="256">Cartão de Visita</option>		
+									
+										<option value="211">Cartoon</option>		
+									
+										<option value="497">Casting</option>		
+									
+										<option value="795">Catálogos</option>		
+									
+										<option value="746">Celebridades</option>		
+									
+										<option value="910">Celtx</option>		
+									
+										<option value="174">Cenário Virtual</option>		
+									
+										<option value="510">Cenografia</option>		
+									
+										<option value="379">Central Pro Output Server</option>		
+									
+										<option value="534">Cerimoniais</option>		
+									
+										<option value="253">Chordiant</option>		
+									
+										<option value="793">Chroma Key</option>		
+									
+										<option value="236">Chrome OS</option>		
+									
+										<option value="492">Cinema</option>		
+									
+										<option value="600">Cinema 4D </option>		
+									
+										<option value="786">Cinema Tools</option>		
+									
+										<option value="110">Cisco</option>		
+									
+										<option value="605">Clipping</option>		
+									
+										<option value="72">Cloud Computing</option>		
+									
+										<option value="889">Cmaptools</option>		
+									
+										<option value="102">CMS</option>		
+									
+										<option value="254">COBOL</option>		
+									
+										<option value="123">Cocoa</option>		
+									
+										<option value="869">Cocos2D</option>		
+									
+										<option value="691">Coda</option>		
+									
+										<option value="218">Codeigniter</option>		
+									
+										<option value="9">Cold Fusion</option>		
+									
+										<option value="381">ColdFusion 9</option>		
+									
+										<option value="768">Coletiva de Imprensa </option>		
+									
+										<option value="894">Collhunting</option>		
+									
+										<option value="787">Color</option>		
+									
+										<option value="577">Colorista</option>		
+									
+										<option value="596">Combustion</option>		
+									
+										<option value="341">Comercial</option>		
+									
+										<option value="692">Comportamento do Consumidor</option>		
+									
+										<option value="765">Composição Musical </option>		
+									
+										<option value="784">Compressor</option>		
+									
+										<option value="816">Comprometimento</option>		
+									
+										<option value="799">Comunicação Corporativa</option>		
+									
+										<option value="678">Comunicação Digital</option>		
+									
+										<option value="614">Comunicação Dirigida </option>		
+									
+										<option value="655">Comunicação Interna</option>		
+									
+										<option value="508">Comunicação Interna e Externa</option>		
+									
+										<option value="914">Comunicação Visual</option>		
+									
+										<option value="210">Concept Design</option>		
+									
+										<option value="757">Consultoria</option>		
+									
+										<option value="813">Consultoria Editorial</option>		
+									
+										<option value="41">Contabilidade</option>		
+									
+										<option value="382">Content Server 4</option>		
+									
+										<option value="901">Conteúdo Institucional</option>		
+									
+										<option value="164">Contratos</option>		
+									
+										<option value="383">Contribute CS5</option>		
+									
+										<option value="693">Controle de Qualidade</option>		
+									
+										<option value="180">Conversão de Vídeo</option>		
+									
+										<option value="484">Coordenação</option>		
+									
+										<option value="830">Copidesque</option>		
+									
+										<option value="472">Corel Draw</option>		
+									
+										<option value="782">Corel Paint Shop </option>		
+									
+										<option value="499">Corel Painter</option>		
+									
+										<option value="520">Corel Videostudio Pro</option>		
+									
+										<option value="473">CorelDraw X5 </option>		
+									
+										<option value="747">Cotidiano</option>		
+									
+										<option value="351">CRE Loaded</option>		
+									
+										<option value="386">CreatePDF</option>		
+									
+										<option value="301">Creative Commons</option>		
+									
+										<option value="387">Creative Suite 5 Design Premium</option>		
+									
+										<option value="388">Creative Suite 5 Design Standard</option>		
+									
+										<option value="390">Creative Suite 5 Master Collection</option>		
+									
+										<option value="391">Creative Suite 5 Production Premium</option>		
+									
+										<option value="389">Creative Suite 5 Web Premium</option>		
+									
+										<option value="917">Criação</option>		
+									
+										<option value="528">Criação de Campanhas</option>		
+									
+										<option value="477">Criação de Personagens</option>		
+									
+										<option value="632">Criativa</option>		
+									
+										<option value="812">Criatividade</option>		
+									
+										<option value="552">Criativo</option>		
+									
+										<option value="241">Criptografia</option>		
+									
+										<option value="789">Croata</option>		
+									
+										<option value="694">Crossbrowser</option>		
+									
+										<option value="384">CS Live</option>		
+									
+										<option value="385">CS Review</option>		
+									
+										<option value="63">CSS</option>		
+									
+										<option value="695">CSS3</option>		
+									
+										<option value="354">CubeCart</option>		
+									
+										<option value="772">Curioso</option>		
+									
+										<option value="309">Data Mining</option>		
+									
+										<option value="924">Data Warehouse</option>		
+									
+										<option value="392">Day CQ5</option>		
+									
+										<option value="393">Day CQ5 Digital Asset Management</option>		
+									
+										<option value="394">Day CQ5 Social Collaboration</option>		
+									
+										<option value="395">Day CQ5 Web Content Management</option>		
+									
+										<option value="396">Day CRX</option>		
+									
+										<option value="663">Decoração</option>		
+									
+										<option value="876">Deejay</option>		
+									
+										<option value="25">Delphi</option>		
+									
+										<option value="556">Desenho</option>		
+									
+										<option value="857">Desenho Artístico</option>		
+									
+										<option value="893">Desenho de Moda</option>		
+									
+										<option value="513">Desenho e Pintura</option>		
+									
+										<option value="49">Desenho Industrial</option>		
+									
+										<option value="921">Desenho Técnico</option>		
+									
+										<option value="960">Desenvolvimento de API</option>		
+									
+										<option value="201">Desenvolvimento Desktop</option>		
+									
+										<option value="935">Design 2D</option>		
+									
+										<option value="936">Design 3D</option>		
+									
+										<option value="19">Design de Banner</option>		
+									
+										<option value="331">Design de Blogs</option>		
+									
+										<option value="696">Design De Capas </option>		
+									
+										<option value="240">Design de Embalagem</option>		
+									
+										<option value="638">Design De Exposições </option>		
+									
+										<option value="898">Design de Flyers</option>		
+									
+										<option value="285">Design de Folders</option>		
+									
+										<option value="48">Design de Games</option>		
+									
+										<option value="343">Design de ícones</option>		
+									
+										<option value="292">Design de Interação</option>		
+									
+										<option value="306">Design de Interface</option>		
+									
+										<option value="67">Design de Interior</option>		
+									
+										<option value="23">Design de Logotipo</option>		
+									
+										<option value="109">Design de Moda</option>		
+									
+										<option value="50">Design de Produto</option>		
+									
+										<option value="519">Design de Serviços </option>		
+									
+										<option value="697">Design De Superfícies </option>		
+									
+										<option value="15">Design de Website</option>		
+									
+										<option value="243">Design Editorial</option>		
+									
+										<option value="826">Design Educacional </option>		
+									
+										<option value="16">Design Gráfico</option>		
+									
+										<option value="278">Design Industrial</option>		
+									
+										<option value="823">Design Instrucional </option>		
+									
+										<option value="511">Design promocional</option>		
+									
+										<option value="344">Design Publicitário</option>		
+									
+										<option value="698">Design Têxtil </option>		
+									
+										<option value="699">Desktop</option>		
+									
+										<option value="558">Detalhista</option>		
+									
+										<option value="242">Diagramação</option>		
+									
+										<option value="349">Digitação</option>		
+									
+										<option value="827">Digitação Avançada</option>		
+									
+										<option value="397">Digital Editions</option>		
+									
+										<option value="398">Digital Publishing Suite</option>		
+									
+										<option value="939">Digitalização 3D</option>		
+									
+										<option value="630">Dinâmica</option>		
+									
+										<option value="553">Dinamismo</option>		
+									
+										<option value="626">Direção De Arte </option>		
+									
+										<option value="494">Direção de Arte para Cinema</option>		
+									
+										<option value="493">Direção de Arte para Fotografia</option>		
+									
+										<option value="713">Direção De Fotografia </option>		
+									
+										<option value="906">Direção de Imagens</option>		
+									
+										<option value="814">Direção de TV </option>		
+									
+										<option value="399">Director</option>		
+									
+										<option value="302">Direito Digital</option>		
+									
+										<option value="300">Direitos Autorais</option>		
+									
+										<option value="401">Distiller Server 8</option>		
+									
+										<option value="95">Django</option>		
+									
+										<option value="205">DNS</option>		
+									
+										<option value="843">Doctrine</option>		
+									
+										<option value="961">Documentação de API</option>		
+									
+										<option value="583">Documentário</option>		
+									
+										<option value="629">Domínio De Gramática</option>		
+									
+										<option value="112">DotNetNuke</option>		
+									
+										<option value="151">Dreamweaver</option>		
+									
+										<option value="402">Dreamweaver CS5</option>		
+									
+										<option value="615">Drumon Framework</option>		
+									
+										<option value="81">Drupal</option>		
+									
+										<option value="714">Dstudio</option>		
+									
+										<option value="307">DTV</option>		
+									
+										<option value="644">Dublagem</option>		
+									
+										<option value="785">Dvd Studio Pro</option>		
+									
+										<option value="313">E-mail Marketing</option>		
+									
+										<option value="547">E.Life</option>		
+									
+										<option value="232">eBay</option>		
+									
+										<option value="142">eBooks</option>		
+									
+										<option value="700">Eclipse</option>		
+									
+										<option value="119">eCommerce</option>		
+									
+										<option value="87">Edição</option>		
+									
+										<option value="536">Edição de áudio</option>		
+									
+										<option value="187">Edição de Fotografia</option>		
+									
+										<option value="158">Edição de Imagens</option>		
+									
+										<option value="487">Edição de Textos</option>		
+									
+										<option value="760">Edição de Vídeo </option>		
+									
+										<option value="539">Edição não-linear</option>		
+									
+										<option value="701">Editorial</option>		
+									
+										<option value="899">Edius</option>		
+									
+										<option value="767">Elaboração de Matérias </option>		
+									
+										<option value="403">eLearning Suite 2</option>		
+									
+										<option value="749">Elgg </option>		
+									
+										<option value="640">Email Marketing </option>		
+									
+										<option value="617">Encore </option>		
+									
+										<option value="404">Encore CS5</option>		
+									
+										<option value="702">Endomarketing</option>		
+									
+										<option value="751">Enity </option>		
+									
+										<option value="28">Entrada de Dados</option>		
+									
+										<option value="266">Entrevistas</option>		
+									
+										<option value="250">ERP</option>		
+									
+										<option value="86">Escrita Técnica</option>		
+									
+										<option value="703">Escultura</option>		
+									
+										<option value="891">Esol </option>		
+									
+										<option value="160">Espanhol</option>		
+									
+										<option value="482">Estampas</option>		
+									
+										<option value="101">Estatísticas</option>		
+									
+										<option value="147">Estratégia de Conteúdo</option>		
+									
+										<option value="926">ETL</option>		
+									
+										<option value="43">Excel</option>		
+									
+										<option value="104">Experiência do Usuário</option>		
+									
+										<option value="704">Extjs</option>		
+									
+										<option value="169">Extranets</option>		
+									
+										<option value="60">Facebook</option>		
+									
+										<option value="705">Facebook API</option>		
+									
+										<option value="776">Fdt </option>		
+									
+										<option value="647">Fechamento De Arquivo </option>		
+									
+										<option value="568">Figurino</option>		
+									
+										<option value="323">FileMaker</option>		
+									
+										<option value="463">Final Cut Pro</option>		
+									
+										<option value="464">Final Cut Pro 7</option>		
+									
+										<option value="465">Final Cut Studio</option>		
+									
+										<option value="706">Finalização</option>		
+									
+										<option value="70">Finanças</option>		
+									
+										<option value="367">Firefox</option>		
+									
+										<option value="405">Fireworks</option>		
+									
+										<option value="573">Fireworks CS5</option>		
+									
+										<option value="500">FL Studio</option>		
+									
+										<option value="10">Flash</option>		
+									
+										<option value="406">Flash Access</option>		
+									
+										<option value="407">Flash Builder</option>		
+									
+										<option value="408">Flash Catalyst</option>		
+									
+										<option value="409">Flash Media Live Encoder</option>		
+									
+										<option value="410">Flash Media Playback</option>		
+									
+										<option value="411">Flash Media Server</option>		
+									
+										<option value="412">Flash Platform Services</option>		
+									
+										<option value="414">Flash Professional CS5</option>		
+									
+										<option value="415">Flash Remoting MX</option>		
+									
+										<option value="416">Flash Video Streaming Services</option>		
+									
+										<option value="64">Flex</option>		
+									
+										<option value="279">Flickr API</option>		
+									
+										<option value="267">Focus Group</option>		
+									
+										<option value="509">Follow-up</option>		
+									
+										<option value="417">Font Folio</option>		
+									
+										<option value="791">Fontographer</option>		
+									
+										<option value="609">Force.Com Developer</option>		
+									
+										<option value="141">Formulários</option>		
+									
+										<option value="707">Fortran</option>		
+									
+										<option value="132">Fóruns</option>		
+									
+										<option value="194">Fotografia Artística</option>		
+									
+										<option value="624">Fotografia Automobilística </option>		
+									
+										<option value="592">Fotografia de Arquitetura</option>		
+									
+										<option value="829">Fotografia De Aviões </option>		
+									
+										<option value="622">Fotografia De Casamento</option>		
+									
+										<option value="591">Fotografia de Espetáculos</option>		
+									
+										<option value="470">Fotografia de Esportes</option>		
+									
+										<option value="190">Fotografia de Estúdio</option>		
+									
+										<option value="469">Fotografia de Eventos</option>		
+									
+										<option value="189">Fotografia de Jóias</option>		
+									
+										<option value="188">Fotografia de Moda</option>		
+									
+										<option value="584">Fotografia de Natureza</option>		
+									
+										<option value="191">Fotografia de Produto</option>		
+									
+										<option value="195">Fotografia de Retratos</option>		
+									
+										<option value="852">Fotografia de Shows </option>		
+									
+										<option value="585">Fotografia de Teatro </option>		
+									
+										<option value="708">Fotografia Infantil</option>		
+									
+										<option value="593">Fotografia Institucional </option>		
+									
+										<option value="709">Fotografia Publicitária</option>		
+									
+										<option value="192">Fotografia Still</option>		
+									
+										<option value="193">Fotojornalismo</option>		
+									
+										<option value="516">Foursquare</option>		
+									
+										<option value="418">FrameMaker</option>		
+									
+										<option value="419">FrameMaker Server</option>		
+									
+										<option value="319">Framework JavaScript</option>		
+									
+										<option value="525">Francês</option>		
+									
+										<option value="420">FreeHand</option>		
+									
+										<option value="668">Front-End</option>		
+									
+										<option value="296">Geolocalização</option>		
+									
+										<option value="283">Geolocation</option>		
+									
+										<option value="977">Gerenciamento de Contas</option>		
+									
+										<option value="679">Gerenciamento De Conteúdo</option>		
+									
+										<option value="467">Gerenciamento de Equipes</option>		
+									
+										<option value="327">Gerenciamento de Produtos</option>		
+									
+										<option value="26">Gerenciamento de Projetos</option>		
+									
+										<option value="574">Gestão</option>		
+									
+										<option value="710">Gestão Da Marca </option>		
+									
+										<option value="575">Gestão de Comunicação</option>		
+									
+										<option value="979">Gestão de Contas a Pagar</option>		
+									
+										<option value="980">Gestão de Contas a Receber</option>		
+									
+										<option value="680">Gestão De Pessoas</option>		
+									
+										<option value="138">Ghostwriting</option>		
+									
+										<option value="651">Gimp</option>		
+									
+										<option value="682">Gimp</option>		
+									
+										<option value="711">GIT</option>		
+									
+										<option value="854">Git</option>		
+									
+										<option value="368">Git Hub</option>		
+									
+										<option value="996">Golang</option>		
+									
+										<option value="277">Google Adsense</option>		
+									
+										<option value="273">Google Analytics</option>		
+									
+										<option value="610">Google Appengine </option>		
+									
+										<option value="113">Google Apps</option>		
+									
+										<option value="332">Google Earth</option>		
+									
+										<option value="135">Google Googles</option>		
+									
+										<option value="229">Google Maps API</option>		
+									
+										<option value="118">Google OpenSocial</option>		
+									
+										<option value="831">Google Plus</option>		
+									
+										<option value="334">Google SketchUp</option>		
+									
+										<option value="837">Google Web Toolkit</option>		
+									
+										<option value="348">GPS</option>		
+									
+										<option value="518">Grails</option>		
+									
+										<option value="517">Groovy</option>		
+									
+										<option value="835">Guerrilha Publicitária </option>		
+									
+										<option value="778">Gwt</option>		
+									
+										<option value="838">GWT</option>		
+									
+										<option value="712">Haml</option>		
+									
+										<option value="892">Haskell</option>		
+									
+										<option value="780">Hibernate</option>		
+									
+										<option value="841">Hiper-Realismo</option>		
+									
+										<option value="479">Histórias em Quadrinhos</option>		
+									
+										<option value="548">Hootsuite</option>		
+									
+										<option value="252">HP Openview</option>		
+									
+										<option value="310">HTML</option>		
+									
+										<option value="71">HTML5</option>		
+									
+										<option value="422">HTTP Dynamic Streaming</option>		
+									
+										<option value="774">Hypershot</option>		
+									
+										<option value="350">IBM Tivoli</option>		
+									
+										<option value="522">iClone </option>		
+									
+										<option value="305">Iconografia</option>		
+									
+										<option value="178">Identidade Visual</option>		
+									
+										<option value="864">Idiom</option>		
+									
+										<option value="206">IIS</option>		
+									
+										<option value="582">Ilha de Edição</option>		
+									
+										<option value="56">Illustrator</option>		
+									
+										<option value="423">Illustrator CS5</option>		
+									
+										<option value="715">Iluminação</option>		
+									
+										<option value="152">Ilustração</option>		
+									
+										<option value="512">Ilustração a mão-livre</option>		
+									
+										<option value="571">Ilustração Conceitual </option>		
+									
+										<option value="481">Ilustração de Moda</option>		
+									
+										<option value="588">Ilustração Digital </option>		
+									
+										<option value="968">Implementação ATM</option>		
+									
+										<option value="937">Impressão 3D</option>		
+									
+										<option value="818">Impressão Digital </option>		
+									
+										<option value="139">Impressos</option>		
+									
+										<option value="424">InContext Editing</option>		
+									
+										<option value="425">InCopy</option>		
+									
+										<option value="150">InDesign</option>		
+									
+										<option value="426">InDesign CS5</option>		
+									
+										<option value="159">Inglês</option>		
+									
+										<option value="530">Inglês Avançado</option>		
+									
+										<option value="531">Inglês Fluente</option>		
+									
+										<option value="665">Inglês Nativo </option>		
+									
+										<option value="825">Ink Skape</option>		
+									
+										<option value="815">Inovador</option>		
+									
+										<option value="330">Instalação de Blog</option>		
+									
+										<option value="14">Instalação de Script</option>		
+									
+										<option value="716">Integração</option>		
+									
+										<option value="355">Integração de Ecommerce</option>		
+									
+										<option value="656">Intranet</option>		
+									
+										<option value="635">iOS</option>		
+									
+										<option value="282">iPad</option>		
+									
+										<option value="312">ISO9001</option>		
+									
+										<option value="488">Italiano</option>		
+									
+										<option value="627">iWorks </option>		
+									
+										<option value="33">J2EE</option>		
+									
+										<option value="270">J2ME</option>		
+									
+										<option value="161">Japonês</option>		
+									
+										<option value="5">Java</option>		
+									
+										<option value="840">Java Swing</option>		
+									
+										<option value="918">JavaEE</option>		
+									
+										<option value="94">JavaFX</option>		
+									
+										<option value="7">Javascript</option>		
+									
+										<option value="717">JBoss</option>		
+									
+										<option value="570">Jingles</option>		
+									
+										<option value="718">Joalheria</option>		
+									
+										<option value="42">Joomla</option>		
+									
+										<option value="798">Jornal</option>		
+									
+										<option value="810">Jornalismo Corporativo </option>		
+									
+										<option value="602">Jornalismo Cultural </option>		
+									
+										<option value="719">Jornalismo De Moda</option>		
+									
+										<option value="720">Jornalismo Econômico </option>		
+									
+										<option value="227">Jornalismo Esportismo</option>		
+									
+										<option value="913">Jornalismo Esportivo</option>		
+									
+										<option value="771">Jornalismo Feminino</option>		
+									
+										<option value="748">Jornalismo Literário </option>		
+									
+										<option value="671">Jornalismo Político </option>		
+									
+										<option value="318">jQuery</option>		
+									
+										<option value="428">JRun</option>		
+									
+										<option value="779">Jsf</option>		
+									
+										<option value="773">Json</option>		
+									
+										<option value="6">JSP</option>		
+									
+										<option value="905">Keynote</option>		
+									
+										<option value="860">Keyshot</option>		
+									
+										<option value="836">Knockout</option>		
+									
+										<option value="429">Kuler</option>		
+									
+										<option value="365">LabVIEW</option>		
+									
+										<option value="235">LaTeX</option>		
+									
+										<option value="866">Layout</option>		
+									
+										<option value="246">Layout de Blogs</option>		
+									
+										<option value="856">Legendagem</option>		
+									
+										<option value="878">Lettering</option>		
+									
+										<option value="264">Levantamento de Requisitos</option>		
+									
+										<option value="468">Liderança</option>		
+									
+										<option value="661">Lightroom</option>		
+									
+										<option value="755">Ligthroom 3 </option>		
+									
+										<option value="29">Link Building</option>		
+									
+										<option value="22">Linux</option>		
+									
+										<option value="430">LiveCycle Enterprise Suite</option>		
+									
+										<option value="650">Livros e Revistas</option>		
+									
+										<option value="611">LMS</option>		
+									
+										<option value="336">Locução</option>		
+									
+										<option value="844">Logic</option>		
+									
+										<option value="721">Logic Pro </option>		
+									
+										<option value="268">Lógica</option>		
+									
+										<option value="197">Logística</option>		
+									
+										<option value="366">Lotus Notes</option>		
+									
+										<option value="722">Lua</option>		
+									
+										<option value="124">Mac OS</option>		
+									
+										<option value="897">Mac OS X</option>		
+									
+										<option value="73">Magento</option>		
+									
+										<option value="819">Magix Edit Studio </option>		
+									
+										<option value="822">Magix Samplitude </option>		
+									
+										<option value="162">Mandarim</option>		
+									
+										<option value="820">Manipulação de Imagens</option>		
+									
+										<option value="66">Marketing</option>		
+									
+										<option value="929">Marketing de Conteúdo</option>		
+									
+										<option value="77">Marketing Direto</option>		
+									
+										<option value="603">Marketing Político </option>		
+									
+										<option value="304">Matemática</option>		
+									
+										<option value="155">Maya</option>		
+									
+										<option value="769">Media Training</option>		
+									
+										<option value="566">Melodyne Studio</option>		
+									
+										<option value="208">Mercado Financeiro</option>		
+									
+										<option value="533">Mestre de Cerimônias</option>		
+									
+										<option value="324">Metodologias ágeis</option>		
+									
+										<option value="834">Microsoft Access </option>		
+									
+										<option value="203">Microsoft Exchange</option>		
+									
+										<option value="137">Microsoft Expression</option>		
+									
+										<option value="222">Microsoft Project</option>		
+									
+										<option value="107">Microsoft Visio</option>		
+									
+										<option value="809">Microsoft Xna </option>		
+									
+										<option value="681">Mídia Impressa</option>		
+									
+										<option value="146">Mídias Sociais</option>		
+									
+										<option value="32">Mobile</option>		
+									
+										<option value="595">Mocha</option>		
+									
+										<option value="502">Mockup</option>		
+									
+										<option value="503">Mockup Digital</option>		
+									
+										<option value="659">Moda</option>		
+									
+										<option value="244">Modelagem 3D</option>		
+									
+										<option value="505">Modo 501</option>		
+									
+										<option value="723">Monitoramento</option>		
+									
+										<option value="875">Monitoramento </option>		
+									
+										<option value="724">Moodle</option>		
+									
+										<option value="576">Mootools</option>		
+									
+										<option value="783">Motion</option>		
+									
+										<option value="321">Motion Design</option>		
+									
+										<option value="612">Moulage</option>		
+									
+										<option value="677">Movie-Magic</option>		
+									
+										<option value="625">Mpeg Streamclip</option>		
+									
+										<option value="507">Mudbox</option>		
+									
+										<option value="654">MVC</option>		
+									
+										<option value="79">MySpace</option>		
+									
+										<option value="280">MySQL</option>		
+									
+										<option value="900">Naming</option>		
+									
+										<option value="645">Narrações </option>		
+									
+										<option value="561">Neuromarketing</option>		
+									
+										<option value="337">Newsletters</option>		
+									
+										<option value="276">Nginx</option>		
+									
+										<option value="752">Nhibernate</option>		
+									
+										<option value="725">NodeJS</option>		
+									
+										<option value="258">Nokia</option>		
+									
+										<option value="262">NoSQL Couch & Mongo</option>		
+									
+										<option value="634">Nuendo </option>		
+									
+										<option value="598">Nuke</option>		
+									
+										<option value="726">Nusphere </option>		
+									
+										<option value="297">Nutrição</option>		
+									
+										<option value="125">Objective C</option>		
+									
+										<option value="888">Omnigraffle</option>		
+									
+										<option value="871">OO</option>		
+									
+										<option value="800">Open Cart </option>		
+									
+										<option value="540">Operação de Câmera</option>		
+									
+										<option value="100">Oracle</option>		
+									
+										<option value="485">Organização</option>		
+									
+										<option value="535">Organização de Eventos </option>		
+									
+										<option value="212">OSCommerce</option>		
+									
+										<option value="727">Ourivesaria</option>		
+									
+										<option value="433">Output Designer</option>		
+									
+										<option value="434">Output Pak for mySAP.com</option>		
+									
+										<option value="435">Ovation</option>		
+									
+										<option value="761">Pacote Adobe </option>		
+									
+										<option value="545">Pacote Office </option>		
+									
+										<option value="357">Pagamento por Cartão de Crédito</option>		
+									
+										<option value="436">PageMaker</option>		
+									
+										<option value="356">PagSeguro</option>		
+									
+										<option value="797">Paint Tool Sai</option>		
+									
+										<option value="116">Palm</option>		
+									
+										<option value="255">Papelaria</option>		
+									
+										<option value="286">Papervision3D</option>		
+									
+										<option value="360">Parallels Desktop</option>		
+									
+										<option value="850">Particle Ilusion </option>		
+									
+										<option value="728">Pauta</option>		
+									
+										<option value="865">Pautas</option>		
+									
+										<option value="120">Paypal API</option>		
+									
+										<option value="140">PDF</option>		
+									
+										<option value="903">PDV</option>		
+									
+										<option value="114">PeopleSoft</option>		
+									
+										<option value="2">Perl</option>		
+									
+										<option value="35">Pesquisa</option>		
+									
+										<option value="69">Pesquisa Científica</option>		
+									
+										<option value="885">Pesquisa de Campo</option>		
+									
+										<option value="314">Pesquisa de Marketing</option>		
+									
+										<option value="882">Pesquisa de Mercado</option>		
+									
+										<option value="486">Pesquisa Iconográfica</option>		
+									
+										<option value="817">Pftrack</option>		
+									
+										<option value="608">Photofiltre</option>		
+									
+										<option value="868">Photomatix</option>		
+									
+										<option value="45">Photoshop</option>		
+									
+										<option value="90">Photoshop Actions</option>		
+									
+										<option value="437">Photoshop CS5</option>		
+									
+										<option value="1">PHP</option>		
+									
+										<option value="683">PHP5</option>		
+									
+										<option value="824">Pinnacle Studio </option>		
+									
+										<option value="983">Pintura Acrílica</option>		
+									
+										<option value="928">PL/SQL</option>		
+									
+										<option value="148">Planejamento</option>		
+									
+										<option value="896">Planejamento de Comunicação</option>		
+									
+										<option value="766">Planejamento de Divulgações </option>		
+									
+										<option value="265">Planejamento de Eventos</option>		
+									
+										<option value="895">Planejamento de Marketing</option>		
+									
+										<option value="353">Planejamento de Mídia</option>		
+									
+										<option value="988">Planejamento e Compra de Anúncios</option>		
+									
+										<option value="352">Plano de Mídia</option>		
+									
+										<option value="145">PLC & SCADA</option>		
+									
+										<option value="361">Plesk</option>		
+									
+										<option value="729">Plone </option>		
+									
+										<option value="563">Podcast</option>		
+									
+										<option value="788">Polonês</option>		
+									
+										<option value="633">Pontual</option>		
+									
+										<option value="168">Portais</option>		
+									
+										<option value="170">Portais Corporativos</option>		
+									
+										<option value="619">Poser</option>		
+									
+										<option value="521">Poser 8</option>		
+									
+										<option value="873">PosgreAQL</option>		
+									
+										<option value="851">Postgis</option>		
+									
+										<option value="587">PostgreSQL</option>		
+									
+										<option value="166">PPV3D </option>		
+									
+										<option value="916">Pré-Impressão</option>		
+									
+										<option value="730">Premiere Pro </option>		
+									
+										<option value="441">Presenter</option>		
+									
+										<option value="759">Prestashop</option>		
+									
+										<option value="478">Pró-ativo</option>		
+									
+										<option value="202">Processing</option>		
+									
+										<option value="564">Produção</option>		
+									
+										<option value="643">Produção Cultural </option>		
+									
+										<option value="911">Produção Cultural</option>		
+									
+										<option value="569">Produção de Elenco </option>		
+									
+										<option value="581">Produção de Externa</option>		
+									
+										<option value="657">Produção De Moda</option>		
+									
+										<option value="496">Produção de Objetos</option>		
+									
+										<option value="565">Produção de TV</option>		
+									
+										<option value="40">Produção de Video</option>		
+									
+										<option value="578">Produção Gráfica </option>		
+									
+										<option value="915">Professor</option>		
+									
+										<option value="4">Programação C</option>		
+									
+										<option value="88">Programação C#</option>		
+									
+										<option value="295">Programação C++</option>		
+									
+										<option value="731">Programação Documentada</option>		
+									
+										<option value="732">Programação Orientada a Objetos </option>		
+									
+										<option value="756">Projeto Editorial </option>		
+									
+										<option value="649">Projeto Gráfico</option>		
+									
+										<option value="842">Projetos Especiais</option>		
+									
+										<option value="269">Prolog</option>		
+									
+										<option value="637">Promob</option>		
+									
+										<option value="862">Proofreading</option>		
+									
+										<option value="858">Propaganda </option>		
+									
+										<option value="551">ProTools</option>		
+									
+										<option value="224">Prototipação</option>		
+									
+										<option value="777">Prototipagem</option>		
+									
+										<option value="474">Prototype</option>		
+									
+										<option value="524">Prototype </option>		
+									
+										<option value="228">PSD para HTML</option>		
+									
+										<option value="329">Psicologia</option>		
+									
+										<option value="96">Publicação</option>		
+									
+										<option value="989">Publicação de Anúncios</option>		
+									
+										<option value="83">Publicidade</option>		
+									
+										<option value="859">Publicidade </option>		
+									
+										<option value="11">Python</option>		
+									
+										<option value="53">QA / Testes</option>		
+									
+										<option value="549">QR Code</option>		
+									
+										<option value="239">QuarkXPress</option>		
+									
+										<option value="544">Radiojornalismo</option>		
+									
+										<option value="557">Rapidez</option>		
+									
+										<option value="443">Reader X</option>		
+									
+										<option value="762">Realflow</option>		
+									
+										<option value="299">Realidade Aumentada</option>		
+									
+										<option value="17">Redação</option>		
+									
+										<option value="231">Redação de Artigos</option>		
+									
+										<option value="471">Redação Publicitária</option>		
+									
+										<option value="51">Redes Sociais</option>		
+									
+										<option value="506">Regex</option>		
+									
+										<option value="666">Relacionamento</option>		
+									
+										<option value="272">Relações Públicas</option>		
+									
+										<option value="938">Renderização 3D</option>		
+									
+										<option value="489">Reportagem</option>		
+									
+										<option value="792">Resenhas</option>		
+									
+										<option value="183">Reviews</option>		
+									
+										<option value="36">Revisão</option>		
+									
+										<option value="674">Revisão De Inglês </option>		
+									
+										<option value="733">Revisão De Texto </option>		
+									
+										<option value="734">Revista</option>		
+									
+										<option value="828">Revit Architecture </option>		
+									
+										<option value="515">Rhinoceros</option>		
+									
+										<option value="445">RoboHelp</option>		
+									
+										<option value="446">RoboHelp Server</option>		
+									
+										<option value="537">Roteiro</option>		
+									
+										<option value="538">Roteiro de Cinema e Vídeo</option>		
+									
+										<option value="594">Rotoscopia</option>		
+									
+										<option value="462">Ruby</option>		
+									
+										<option value="38">Ruby on Rails</option>		
+									
+										<option value="648">Saída De Filmes</option>		
+									
+										<option value="293">Salesforce</option>		
+									
+										<option value="290">Samsung</option>		
+									
+										<option value="298">Samsung Galaxy</option>		
+									
+										<option value="245">SAP</option>		
+									
+										<option value="316">SAS</option>		
+									
+										<option value="735">Sass</option>		
+									
+										<option value="364">SauceLabs</option>		
+									
+										<option value="275">Saúde</option>		
+									
+										<option value="447">Scene7</option>		
+									
+										<option value="652">Scribus</option>		
+									
+										<option value="326">Scrum</option>		
+									
+										<option value="546">Scup</option>		
+									
+										<option value="833">Seekr</option>		
+									
+										<option value="59">Segurança de Redes</option>		
+									
+										<option value="24">Segurança Web</option>		
+									
+										<option value="136">Seguros</option>		
+									
+										<option value="363">Selenium</option>		
+									
+										<option value="52">SEM</option>		
+									
+										<option value="736">Semântica</option>		
+									
+										<option value="339">Sencha</option>		
+									
+										<option value="450">SendNow</option>		
+									
+										<option value="27">SEO</option>		
+									
+										<option value="990">Servidores de Anúncios</option>		
+									
+										<option value="128">Sharepoint</option>		
+									
+										<option value="248">Shell Script</option>		
+									
+										<option value="449">Shockwave Player</option>		
+									
+										<option value="345">Shopify Templates</option>		
+									
+										<option value="143">Silverlight</option>		
+									
+										<option value="940">Sistemas 3D</option>		
+									
+										<option value="451">SiteCatalyst</option>		
+									
+										<option value="676">Sitefinity</option>		
+									
+										<option value="737">Sketchup</option>		
+									
+										<option value="601">Smartphone</option>		
+									
+										<option value="670">Smartphone Dev.</option>		
+									
+										<option value="738">Social Media </option>		
+									
+										<option value="781">Sociologia</option>		
+									
+										<option value="887">Softimage Xsi</option>		
+									
+										<option value="308">Solaris</option>		
+									
+										<option value="121">Solidworks</option>		
+									
+										<option value="847">Sonar</option>		
+									
+										<option value="739">Sony Sound Forge </option>		
+									
+										<option value="491">Sony Vegas</option>		
+									
+										<option value="807">Sound Design</option>		
+									
+										<option value="453">Soundbooth</option>		
+									
+										<option value="636">Soundforge</option>		
+									
+										<option value="740">Soundforge</option>		
+									
+										<option value="883">Spring</option>		
+									
+										<option value="54">SQL</option>		
+									
+										<option value="586">SQL Server</option>		
+									
+										<option value="874">SQL Server</option>		
+									
+										<option value="811">Sqlite</option>		
+									
+										<option value="855">SSH</option>		
+									
+										<option value="454">Story</option>		
+									
+										<option value="480">Storyboard</option>		
+									
+										<option value="328">StoryTelling</option>		
+									
+										<option value="527">Strata 3D</option>		
+									
+										<option value="658">Styling</option>		
+									
+										<option value="770">Subtitle Workshop</option>		
+									
+										<option value="65">Suporte Técnico</option>		
+									
+										<option value="741">Sustentabilidade</option>		
+									
+										<option value="742">SVN</option>		
+									
+										<option value="997">Swift</option>		
+									
+										<option value="99">Symbian</option>		
+									
+										<option value="359">Symfony PHP</option>		
+									
+										<option value="340">T-Shirts</option>		
+									
+										<option value="498">Tableless</option>		
+									
+										<option value="902">Taglines</option>		
+									
+										<option value="346">TaoBao API</option>		
+									
+										<option value="790">Tcheco</option>		
+									
+										<option value="456">Technical Communication Suite 3.0</option>		
+									
+										<option value="543">Telejornalismo</option>		
+									
+										<option value="37">Telemarketing</option>		
+									
+										<option value="247">Templates</option>		
+									
+										<option value="927">Teradata</option>		
+									
+										<option value="457">Test&Target</option>		
+									
+										<option value="186">Teste de Automação</option>		
+									
+										<option value="149">Teste de Software</option>		
+									
+										<option value="362">Testes</option>		
+									
+										<option value="550">Testes A/B</option>		
+									
+										<option value="200">Testes de Usabilidade</option>		
+									
+										<option value="758">Texto Institucional </option>		
+									
+										<option value="542">Texto jornalístico</option>		
+									
+										<option value="805">Tinta A óleo</option>		
+									
+										<option value="806">Tinta Acrílica </option>		
+									
+										<option value="82">Tipografia</option>		
+									
+										<option value="846">Toon Boom </option>		
+									
+										<option value="667">Toon Boom Harmony</option>		
+									
+										<option value="863">Trados</option>		
+									
+										<option value="18">Tradução</option>		
+									
+										<option value="877">Traktor </option>		
+									
+										<option value="103">Transcrição</option>		
+									
+										<option value="775">Transmídia</option>		
+									
+										<option value="821">Tratamento de Fotos</option>		
+									
+										<option value="808">Trilhas</option>		
+									
+										<option value="764">Trilhas Musicais</option>		
+									
+										<option value="832">Tumblr</option>		
+									
+										<option value="284">TV Digital</option>		
+									
+										<option value="289">TV Interativa</option>		
+									
+										<option value="58">Twitter</option>		
+									
+										<option value="335">Twitter API</option>		
+									
+										<option value="458">Type products</option>		
+									
+										<option value="909">UDK</option>		
+									
+										<option value="675">Umbraco</option>		
+									
+										<option value="84">UML Design</option>		
+									
+										<option value="167">Unity 3D</option>		
+									
+										<option value="311">UNIX</option>		
+									
+										<option value="621">Usabilidade</option>		
+									
+										<option value="133">UX</option>		
+									
+										<option value="322">UX Design</option>		
+									
+										<option value="214">vBulletin</option>		
+									
+										<option value="886">Vectorword</option>		
+									
+										<option value="628">Velocidade</option>		
+									
+										<option value="57">Verilog / VHDL</option>		
+									
+										<option value="631">Versátil</option>		
+									
+										<option value="514">Vetor</option>		
+									
+										<option value="848">Vetorização</option>		
+									
+										<option value="259">Video Streaming</option>		
+									
+										<option value="763">Videorreportagem </option>		
+									
+										<option value="642">Virtualização</option>		
+									
+										<option value="338">Virtuemart</option>		
+									
+										<option value="12">Visual Basic</option>		
+									
+										<option value="459">Visual Communicator</option>		
+									
+										<option value="743">Visual Studio</option>		
+									
+										<option value="607">Visualforce</option>		
+									
+										<option value="641">VMware</option>		
+									
+										<option value="238">VoIP</option>		
+									
+										<option value="504">Vray</option>		
+									
+										<option value="274">vTiger</option>		
+									
+										<option value="618">Vue</option>		
+									
+										<option value="646">W3C</option>		
+									
+										<option value="78">Web Analytics</option>		
+									
+										<option value="461">Web Output Pak</option>		
+									
+										<option value="673">Webjornalismo</option>		
+									
+										<option value="672">Webradio</option>		
+									
+										<option value="744">Webservice</option>		
+									
+										<option value="234">Webstandards</option>		
+									
+										<option value="620">Webwriting</option>		
+									
+										<option value="317">Wiki</option>		
+									
+										<option value="271">Windows CE</option>		
+									
+										<option value="122">Windows Mobile</option>		
+									
+										<option value="333">Windows Server</option>		
+									
+										<option value="750">Windows Service</option>		
+									
+										<option value="370">Wireframes</option>		
+									
+										<option value="30">Wireless</option>		
+									
+										<option value="993">WooCommerce</option>		
+									
+										<option value="179">Word</option>		
+									
+										<option value="501">Wordfast</option>		
+									
+										<option value="55">Wordpress</option>		
+									
+										<option value="92">XHTML</option>		
+									
+										<option value="890">Xmind</option>		
+									
+										<option value="8">XML</option>		
+									
+										<option value="325">XP</option>		
+									
+										<option value="320">XSLT</option>		
+									
+										<option value="476">YahooUI</option>		
+									
+										<option value="562">Yii Framework </option>		
+									
+										<option value="483">ZBrush</option>		
+									
+										<option value="182">Zen Cart</option>		
+									
+										<option value="523">Zen Coding </option>		
+									
+										<option value="217">Zend</option>		
+									
+										<option value="745">Zend Framework </option>		
+									
+										<option value="922">Zend Server</option>		
+									
+										<option value="845">Zope</option>	

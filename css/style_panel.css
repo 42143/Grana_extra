@@ -1,0 +1,295 @@
+@import url(font.css);
+@import url(header_footer.css);
+/*#F7F8F9--cor de fudo--*/
+.main {}
+.main .Screen1{margin-top:60px;color:#000;z-index:1;}
+.main .Screen1 .content .means{width:1024px;margin-left:auto;margin-right:auto;margin-top:-10px;}
+.main .Screen1 .content .means .panel{background:#FDFDFD;margin-top:30px;border:solid 0.70px #F3F4F5;position:relative;}
+.main .Screen1 .content .means .panel input{color:#666;font-size:17px;}
+.main .Screen1 .content .means .panel input:focus{outline:none;}
+.main .Screen1 .content .means .panel textarea{color:#666;}
+.main .Screen1 .content .means .panel textarea:focus{outline:none;}
+.main .Screen1 .content .means .panel select{color:#666;}
+.main .Screen1 .content .means .panel select:focus{outline:none;}
+
+.main .Screen1 .content .means .search_project{width:200px;float:left;color:#fff;}
+.main .Screen1 .content .means .search_project .header_search_project{width:180px;height:45px;background:#414856;padding-left:20px;padding-top:15px;font-weight:bold;}
+.main .Screen1 .content .means .search_project .lists_search_project{width:200px;height:599px;overflow:auto;color:#000;font-weight:bold;}
+.main .Screen1 .content .means .search_project .lists_search_project .btn_lists_search_project{width:192px;height:30px;transition:0.50s;-webkit-transition:0.50s;
+border:solid 1px #F7F8F9;cursor:pointer;}
+.main .Screen1 .content .means .search_project .lists_search_project .btn_lists_search_project:hover{background:#00BA4A;color:#fff;font-weight:bold;transition:0.50s;
+-webkit-transition:0.50s;}
+.main .Screen1 .content .means .search_project .lists_search_project .btn_lists_search_project input[type=checkbox]{margin-left:15px;margin-right:40px;}
+.main .Screen1 .content .means .search_project .btn_submit_lists_search_project{width:165px;height:35px;transition:0.50s;-webkit-transition:0.50s;color:#000;padding-left:35px;padding-top:5px;
+border:solid 1px #00BA4A;cursor:pointer;}
+.main .Screen1 .content .means .search_project .btn_submit_lists_search_project:hover{background:#00BA4A;color:#fff;font-weight:bold;transition:0.50s;-webkit-transition:0.50s;}
+
+.main .Screen1 .content .means .profile{width:374px;height:700px;margin-left:7px;float:left;}
+.main .Screen1 .content .means .profile .user_photo{display:none;}
+.main .Screen1 .content .means .profile .photo{width:100px;height:100px;margin-left:25px;margin-top:10px;border-radius:100px;background:#F7F8F9;
+background-image:url(../imagens/photo.png);background-repeat:no-repeat;background-position:center;background-size:74px 93px;}
+.main .Screen1 .content .means .profile img{width:100px;height:100px;border-radius:100px;}
+.main .Screen1 .content .means .profile .menu{width:115px;height:26px;margin-top:-40px;border:solid 1px #ccc;cursor:pointer;display:block;text-align:center;
+padding-top:4px;position:absolute;font-size:15px;font-weight:bold;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen1 .content .means .profile .menu:hover{background:#00BA4A;color:#fff;font-weight:bold;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen1 .content .means .profile .btn_edit_profile{margin-left:130px;}
+.main .Screen1 .content .means .profile .btn_account{margin-left:250px;float:left;}
+.main .Screen1 .content .means .profile hr{width:374px;margin-top:40px;margin-bottom:10px;border:solid 1px #F7F8F9;}
+.main .Screen1 .content .means .profile .subtheme{font-size:17px;margin-left:20px;}
+.main .Screen1 .content .means .profile .reputation{margin-left:20px;}
+.main .Screen1 .content .means .profile a{color:#000;}
+.main .Screen1 .content .means .profile .btn_my_projects{float:right;margin-top:5px;margin-right:18px;position:relative;}
+.main .Screen1 .content .means .profile .btn_my_proposals{float:right;margin-top:5px;margin-right:18px;position:relative;}
+.main .Screen1 .content .means .profile .none{border:solid 1px #FDFDFD;margin-bottom:10px;}
+.main .Screen1 .content .means .profile ul{list-style-type:none;}
+.main .Screen1 .content .means .profile li{float:left;margin-right:30px;margin-bottom:10px;}
+.main .Screen1 .content .means .profile .projects_submitted_value{margin-left:15px;font-size:30px;}
+.main .Screen1 .content .means .profile .space{margin-left:25px;}
+.main .Screen1 .content .means .profile .ability{margin-top:10px;margin-left:15px;width:340px;height:25px;border:solid 1px #ccc;}
+.main .Screen1 .content .means .profile .ability:focus{outline:none;}
+.main .Screen1 .content .means .profile .label_edit_profile{margin-left:15px;}
+.main .Screen1 .content .means .profile .sage_profile{font-size:15px;width:200px;height:30px;background:#fff;border:solid 1px #ccc;text-align:center;padding:5px;margin-left:160px;}
+.main .Screen1 .content .means .profile .sage_profile:hover{background:#00BA4A;color:#fff;font-weight:bold;}
+.main .Screen1 .content .means .profile .data_ability{width:340px;height:100px;margin-left:15px;margin-top:10px;margin-bottom:15px;background:#F7F8F9;border:solid 1px #ccc;
+font-size:15px;overflow:auto;}
+.main .Screen1 .content .means .profile .professional_experience{margin-left:14px;margin-top:10px;border:solid 1px #ccc;}
+.main .Screen1 .content .means .profile .edit_portfolio{font-size:15px;width:200px;height:20px;border:solid 1px #ccc;text-align:center;padding:5px;margin-left:82px;}
+.main .Screen1 .content .means .profile .edit_portfolio:hover{background:#00BA4A;color:#fff;font-weight:bold;}
+
+.main .Screen1 .content .means .recent_projects{width:430px;margin-left:auto;margin-right:auto;margin-top:30px;float:right;color:#fff;}
+.main .Screen1 .content .means .recent_projects .header_lists_recent_projects{width:410px;height:45px;background:#414856;padding-left:20px;padding-top:15px;font-weight:bold;}
+.main .Screen1 .content .means .recent_projects .header_lists_recent_projects .alert_folder_opened .name_user{margin-left:55px;margin-top:-25px;display:block;}
+.main .Screen1 .content .means .recent_projects .header_lists_recent_projects .alert_folder_opened a{color:#000;text-decoration:none;}
+.main .Screen1 .content .means .recent_projects .header_lists_recent_projects .alert_folder_opened hr{width:255px;margin-bottom:5px;margin-top:10px;border:solid 1px #F7F8F9;}
+.main .Screen1 .content .means .recent_projects .header_lists_recent_projects .alert_folder_opened form{float:left;margin-left:5px;}
+.main .Screen1 .content .means .recent_projects .header_lists_recent_projects .alert_folder_opened input[type="submit"]{border:solid 1px #ccc;background:#fff;cursor:pointer;transition:0.50s;-webkit-transition:0.50s;color:#000;}
+.main .Screen1 .content .means .recent_projects .header_lists_recent_projects .alert_folder_opened input[type="submit"]:hover{background:#00BA4A;color:#fff;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen1 .content .means .recent_projects .header_lists_recent_projects .alert_folder_opened .btn_hg{width:85px;}
+.main .Screen1 .content .means .recent_projects .header_lists_recent_projects .alert_folder_opened .btn_gh{width:70px;}
+.main .Screen1 .content .means .recent_projects .lists_recent_projects{width:430px;height:640px;color:#000;font-size:15px;overflow:auto;}
+.main .Screen1 .content .means .recent_projects .lists_recent_projects .lists_contractor{margin-left:15px;}
+.main .Screen1 .content .means .recent_projects .lists_recent_projects .lists_contractor .menu{width:115px;height:26px;border:solid 1px #ccc;cursor:pointer;
+text-align:center;padding-top:4px;font-size:15px;font-weight:bold;transition:0.50s;-webkit-transition:0.50s;color:#000;}
+.main .Screen1 .content .means .recent_projects .lists_recent_projects .lists_contractor .menu:hover{background:#00BA4A;color:#fff;font-weight:bold;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen1 .content .means .recent_projects .lists_recent_projects .lists_contractor .btn_contractor{float:right;}
+.main .Screen1 .content .means .recent_projects .lists_recent_projects .perfil_contractor .photo_contractor{width:50px;height:50px;border-radius:50px;background:#F7F8F9;
+background-image:url(../imagens/photo_contractor.png);background-repeat:no-repeat;background-position:center;}
+.main .Screen1 .content .means .recent_projects .lists_recent_projects .perfil_contractor span{float:left;margin-top:-20px;}
+.main .Screen1 .content .means .recent_projects .lists_recent_projects hr{width:420px;margin-top:5px;border:solid 1px #F7F8F9;}
+
+.main .Screen1 .content .means .create_projects{width:630px;height:920px;margin-left:auto;margin-right:auto;margin-top:30px;margin-bottom:30px;float:right;color:#000;}
+.main .Screen1 .content .means .create_projects .header_create_projects{width:610px;height:45px;background:#414856;padding-left:20px;padding-top:15px;font-weight:bold;color:#fff;}
+.main .Screen1 .content .means .create_projects .header_create_projects .alert_folder_opened .name_user{margin-left:55px;margin-top:-25px;display:block;}
+.main .Screen1 .content .means .create_projects .header_create_projects .alert_folder_opened a{color:#000;text-decoration:none;}
+.main .Screen1 .content .means .create_projects .header_create_projects .alert_folder_opened hr{width:255px;margin-bottom:5px;margin-top:10px;}
+.main .Screen1 .content .means .create_projects .header_create_projects .alert_folder_opened form{float:left;margin-left:-20px;}
+.main .Screen1 .content .means .create_projects .header_create_projects .alert_folder_opened input[type="submit"]{border:solid 1px #ccc;background:#fff;cursor:pointer;transition:0.50s;-webkit-transition:0.50s;color:#000;}
+.main .Screen1 .content .means .create_projects .header_create_projects .alert_folder_opened input[type="submit"]:hover{background:#00BA4A;color:#fff;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen1 .content .means .create_projects .header_create_projects .alert_folder_opened .btn_hg{width:85px;}
+.main .Screen1 .content .means .create_projects .header_create_projects .alert_folder_opened .btn_gh{width:70px;}
+
+.main .Screen1 .content .means .create_projects .preview_project .span{margin-left:20px;margin-right:20px;}
+.main .Screen1 .content .means .create_projects .preview_project .photo_contractor{width:100px;height:100px;margin-left:25px;margin-top:10px;border-radius:100px;background:#F7F8F9;
+background-image:url(../imagens/photo.png);background-repeat:no-repeat;background-position:center;background-size:74px 93px;}
+.main .Screen1 .content .means .create_projects .preview_project .proposal{width:100px;}
+.main .Screen1 .content .means .create_projects .preview_project .btn_form{font-size:15px;width:200px;height:30px;border:solid 1px #ccc;text-align:center;padding:5px;
+margin-left:180px;background:#fff;}
+.main .Screen1 .content .means .create_projects .preview_project .btn_form:hover{background:#00BA4A;color:#fff;font-weight:bold;}
+.main .Screen1 .content .means .create_projects .preview_project .btn_Comment{margin-left:25px;}
+.main .Screen1 .content .means .create_projects .preview_project .value_end{width:170px;text-align:center;font-size:25px;float:right;margin-right:40px;margin-top:-15px;
+background:#F7F8F9;}
+.main .Screen1 .content .means .create_projects .preview_project hr{border:solid 1px #F7F8F9;}
+.main .Screen1 .content .means .create_projects .preview_project .comment{background:#F7F8F9;overflow:auto;width:630px;height:345px;margin-top:10px;}
+.main .Screen1 .content .means .create_projects .preview_project .comment .cashier_alert{background:#fff;margin-left:20px;padding:10px;margin-top:10px;width:570px;height:205px;border:solid 1px #ccc;}
+.main .Screen1 .content .means .create_projects .preview_project .comment .cashier_alert .name_user{margin-left:80px;margin-top:-25px;display:block;}
+.main .Screen1 .content .means .create_projects .preview_project .comment .cashier_alert a{color:#000;text-decoration:none;}
+.main .Screen1 .content .means .create_projects .preview_project .comment .cashier_alert hr{width:255px;margin-bottom:5px;margin-top:10px;}
+.main .Screen1 .content .means .create_projects .preview_project .comment .cashier_alert form{float:left;margin-left:-20px;}
+.main .Screen1 .content .means .create_projects .preview_project .comment .cashier_alert input[type="submit"]{border:solid 1px #ccc;background:#fff;cursor:pointer;transition:0.50s;-webkit-transition:0.50s;color:#000;}
+.main .Screen1 .content .means .create_projects .preview_project .comment .cashier_alert input[type="submit"]:hover{background:#00BA4A;color:#fff;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen1 .content .means .create_projects .preview_project .comment .cashier_alert .btn_hg{width:85px;}
+.main .Screen1 .content .means .create_projects .preview_project .comment .cashier_alert .btn_gh{width:70px;}
+
+.main .Screen1 .content .means .create_projects input{width:580px;height:25px;margin-left:25px;}
+.main .Screen1 .content .means .create_projects select{width:300px;height:25px;margin-left:25px;}
+.main .Screen1 .content .means .create_projects input[type=radio]{display:none;}
+.main .Screen1 .content .means .create_projects label,textarea{margin-left:25px;}
+.main .Screen1 .content .means .create_projects hr{width:620px;border:solid 1px #F7F8F9;}/*width:628px;*/
+.main .Screen1 .content .means .create_projects .btn_add_imagens{float:left;width:300px;height:30px;padding-top:4px;margin-top:10px;margin-bottom:10px;
+margin-right:330px;text-align:center;border:solid 1px #ccc;transition:0.50s;-webkit-transition:0.50s;cursor:pointer;}
+.main .Screen1 .content .means .create_projects .btn_add_imagens:hover{background:#00BA4A;color:#fff;font-weight:bold;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen1 .content .means .create_projects .add_imagens{display:none;}
+.main .Screen1 .content .means .create_projects .freelar_escolhar{font-size:17px;text-align:center;position:relative;margin-bottom:50px;margin-top:20px;
+float:left;width:185px;height:120px;padding-top:30px;}
+
+
+.main .Screen1 .content .means .create_projects .image{width:32px;height:40px;position:absolute;margin-left:14px;margin-top:-31px;}
+.main .Screen1 .content .means .create_projects .icon0{display:none;}
+.main .Screen1 .content .means .create_projects .icon3_white0{display:none;}
+.main .Screen1 .content .means .create_projects .icon1{display:none;}
+.main .Screen1 .content .means .create_projects .icon3_white1{display:none;}
+.main .Screen1 .content .means .create_projects .icon2{display:none;}
+.main .Screen1 .content .means .create_projects .icon3_white2{display:none;}
+.main .Screen1 .content .means .create_projects .btn_account_basic{margin-left:25px;border:solid 1px #00CC66;color:#00CC66;cursor:pointer;transition:0.50s;-webkit-transition:0.50s;background-image:url(../imagens/icon0.png);background-repeat:no-repeat;background-position:15px 25px;}
+.main .Screen1 .content .means .create_projects .btn_account_classic{margin-left:10px;border:solid 1px #FF6600;color:#FF6600;cursor:pointer;transition:0.50s;-webkit-transition:0.50s;background-image:url(../imagens/icon1.png);background-repeat:no-repeat;background-position:15px 25px;}
+.main .Screen1 .content .means .create_projects .btn_account_premier{margin-left:10px;margin-top:-6px;border:solid 1px #199ED8;color:#199ED8;cursor:pointer;transition:0.50s;-webkit-transition:0.50s;background-image:url(../imagens/icon2.png);background-repeat:no-repeat;background-position:15px 25px;}
+.main .Screen1 .content .means .create_projects .btn_account_basic:hover{background:#00CC66;color:#fff;transition:0.50s;-webkit-transition:0.50s;background-image:url(../imagens/icon3.png);background-repeat:no-repeat;background-position:15px 25px;}
+.main .Screen1 .content .means .create_projects .btn_account_classic:hover{background:#FF6600;color:#fff;transition:0.50s;-webkit-transition:0.50s;background-image:url(../imagens/icon3.png);background-repeat:no-repeat;background-position:15px 25px;}
+.main .Screen1 .content .means .create_projects .btn_account_premier:hover{background:#199ED8;color:#fff;transition:0.50s;-webkit-transition:0.50s;background-image:url(../imagens/icon3.png);background-repeat:no-repeat;background-position:15px 25px;}
+.main .Screen1 .content .means .create_projects .btn_create_project{width:300px;height:35px;border:solid 1px #ccc;cursor:pointer;text-align:center;margin-left:160px;padding-top:5px;
+transition:0.50s;-webkit-transition:0.50s;background:#fff;}
+.main .Screen1 .content .means .create_projects .btn_create_project:hover{background:#00BA4A;color:#fff;font-weight:bold;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen1 .content .means .create_projects .data{width:580px;height:100px;}
+
+.main .Screen1 .content .means .create_projects .preview_profile_freelar .span{margin-left:20px;margin-right:20px;}
+.main .Screen1 .content .means .create_projects .preview_profile_freelar .photo_freelar{width:100px;height:100px;margin-left:25px;margin-top:10px;border-radius:100px;background:#F7F8F9;
+background-image:url(../imagens/photo.png);background-repeat:no-repeat;background-position:center;background-size:74px 93px;}
+
+.main .Screen1 .content .means .create_projects .account h3{margin-top:30px;margin-bottom:30px;}
+.main .Screen1 .content .means .create_projects .account hr{margin-top:20px;margin-bottom:20px;}
+.main .Screen1 .content .means .create_projects .account .btn_modify{float:right;font-size:15px;width:150px;height:20px;border:solid 1px #ccc;text-align:center;
+padding:5px;margin-right:200px;} 
+.main .Screen1 .content .means .create_projects .account{overflow:auto;height:860px;} 
+.main .Screen1 .content .means .create_projects .account .btn_modify:hover{background:#00BA4A;color:#fff;font-weight:bold;} 
+.main .Screen1 .content .means .create_projects .account input[type="text"]{display:none;width:300px;height:25px;margin-left:25px;} 
+.main .Screen1 .content .means .create_projects .account input[type="password"]{display:none;width:300px;height:25px;margin-left:25px;} 
+.main .Screen1 .content .means .create_projects .account input[type="submit"]{display:none;float:right;font-size:15px;width:150px;height:35px;background:#fff;border:solid 1px #ccc;margin-right:35px;} 
+.main .Screen1 .content .means .create_projects .account input[type="submit"]:hover{background:#00BA4A;color:#fff;font-weight:bold;} 
+.main .Screen1 .content .means .create_projects .account .access_configuration .modify_password{display:none;} 
+.main .Screen1 .content .means .create_projects .account .access_configuration br{display:none;} 
+.main .Screen1 .content .means .create_projects .account .access_configuration .old_password{margin-right:20px;} 
+.main .Screen1 .content .means .create_projects .account .access_configuration .new_password{margin-right:31px;} 
+.main .Screen1 .content .means .create_projects .account .add_bank_account{width:300px;height:32px;border:solid 1px #ccc;margin-left:170px;text-align:center;padding-top:3px;cursor:pointer;} 
+.main .Screen1 .content .means .create_projects .account .add_bank_account:hover{background:#00BA4A;color:#fff;font-weight:bold;} 
+.main .Screen1 .content .means .create_projects .account .bank_account_setup{display:none;} 
+.main .Screen1 .content .means .create_projects .account .bank_account_setup input[type="text"]{display:block;} 
+.main .Screen1 .content .means .create_projects .account .bank_account_setup input[type="submit"]{display:block;}  
+.main .Screen1 .content .means .create_projects .account .bank_account_setup select{width:300px;height:25px;float:right;margin-right:120px;} 
+.main .Screen1 .content .means .create_projects .account .bank_account_setup .same{float:right;margin-right:120px;} 
+.main .Screen1 .content .means .create_projects .account .bank_account_setup .bank_branch{width:100px;height:25px;float:right;margin-right:315px;} 
+.main .Screen1 .content .means .create_projects .account .bank_account_setup .bank_account_number{float:right;width:215px;height:25px;} 
+.main .Screen1 .content .means .create_projects .account .bank_account_setup .bank_account_number_dig{float:right;width:50px;height:25px;margin-right:120px;} 
+.main .Screen1 .content .means .create_projects .account .delete_bank_account{float:right;font-size:17px;margin-right:50px;cursor:pointer;} 
+.main .Screen1 .content .means .create_projects .account .delete_bank_account:hover{font-weight:bold;text-decoration:underline;}
+ 
+.main .Screen1 .content .means .create_projects .my_projects{overflow:auto;height:860px;}
+.main .Screen1 .content .means .create_projects .my_projects h3{margin-bottom:20px;margin-top:25px;}
+.main .Screen1 .content .means .create_projects .my_projects a{text-decoration:nome;color:#000;}
+.main .Screen1 .content .means .create_projects .my_projects span{margin-left:25px;}
+.main .Screen1 .content .means .create_projects .my_projects .btn{font-size:17px;cursor:pointer;}
+.main .Screen1 .content .means .create_projects .my_projects .btn:hover{font-weight:bold;text-decoration:underline;}
+.main .Screen1 .content .means .create_projects .my_projects .image_photo{width:50px;height:50px;margin-left:25px;margin-right:20px;margin-top:-52px;}
+.main .Screen1 .content .means .create_projects .my_projects .photo_freelar{width:50px;height:50px;border-radius:50px;background:#F7F8F9;background-repeat:no-repeat;background-position:center;}
+
+.main .Screen1 .content .means .create_projects .my_proposals{overflow:auto;height:860px;}
+.main .Screen1 .content .means .create_projects .my_proposals h3{margin-bottom:20px;margin-top:25px;}
+.main .Screen1 .content .means .create_projects .my_proposals a{text-decoration:nome;color:#000;}
+.main .Screen1 .content .means .create_projects .my_proposals span{margin-left:25px;}
+.main .Screen1 .content .means .create_projects .my_proposals .btn{font-size:17px;cursor:pointer;}
+.main .Screen1 .content .means .create_projects .my_proposals .btn:hover{font-weight:bold;text-decoration:underline;}
+
+.main .Screen1 .content .means .create_projects .edit_project{margin-top:30px;}
+
+.main .Screen1 .content .means .create_projects .payment_method .span{margin-left:20px;margin-right:20px;}
+.main .Screen1 .content .means .create_projects .payment_method .photo_freelar{width:100px;height:100px;margin-left:25px;margin-top:10px;border-radius:100px;background:#F7F8F9;
+background-image:url(../imagens/photo.png);background-repeat:no-repeat;background-position:center;background-size:74px 93px;}
+.main .Screen1 .content .means .create_projects .payment_method h3{text-align:center;margin-top:30px;}
+.main .Screen1 .content .means .create_projects .payment_method ul{list-style-type:none;}
+.main .Screen1 .content .means .create_projects .payment_method li{float:left;margin-left:100px;margin-top:50px;}
+.main .Screen1 .content .means .create_projects .payment_method .svg_card{margin-left:160px;margin-top:30px;}
+.main .Screen1 .content .means .create_projects .payment_method .svg_billet{float:right;margin-right:170px;margin-top:30px;}
+.main .Screen1 .content .means .create_projects .payment_method .card{display:none;}
+.main .Screen1 .content .means .create_projects .payment_method h3{margin-bottom:30px;}
+.main .Screen1 .content .means .create_projects .payment_method .card .input_larger{width:280px;float:right;margin-right:50px;}
+.main .Screen1 .content .means .create_projects .payment_method .card .input_smaller{width:100px;float:right;margin-right:230px;}
+.main .Screen1 .content .means .create_projects .payment_method .card select{width:200px;float:right;margin-right:135px;}
+.main .Screen1 .content .means .create_projects .payment_method .card input[type="submit"]{float:right;font-size:15px;width:200px;height:35px;background:#fff;border:solid 1px #ccc;margin-right:135px;margin-top:30px;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen1 .content .means .create_projects .payment_method .card input[type="submit"]:hover{background:#00BA4A;color:#fff;font-weight:bold;transition:0.50s;-webkit-transition:0.50s;}
+
+.main .Screen1 .content .means .create_projects .purchase_upgrade{}
+.main .Screen1 .content .means .create_projects .purchase_upgrade .ciclo_hr{width:70px;height:70px;border-radius:75px;position:absolute;color:#fff;padding:40px;margin-top:30px;font-weight:bold;}
+.main .Screen1 .content .means .create_projects .purchase_upgrade .ciclo_hr_freelar{background:#FF6600;margin-left:70px;}
+.main .Screen1 .content .means .create_projects .purchase_upgrade .ciclo_hr_premium{right:0px;background:#199ED8;margin-right:70px;}
+.main .Screen1 .content .means .create_projects .purchase_upgrade .frella_classic{float:left;margin-left:50px;margin-top:50px;}
+.main .Screen1 .content .means .create_projects .purchase_upgrade .frella_classic ul{list-style-image:url(../imagens/circle_classic.png);}
+.main .Screen1 .content .means .create_projects .purchase_upgrade .frella_classic li{margin-top:20px;}
+.main .Screen1 .content .means .create_projects .purchase_upgrade .frella_classic .btn_hire_classic{margin-top:50px;width:200px;height:30px;background:#FF6600;cursor:pointer;text-align:center;padding-top:5px;color:#fff;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen1 .content .means .create_projects .purchase_upgrade .frella_classic .btn_hire_classic:hover{background:#EC5F00;font-weight:bold;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen1 .content .means .create_projects .purchase_upgrade .frella_premiun{float:right;margin-right:50px;margin-top:50px;}
+.main .Screen1 .content .means .create_projects .purchase_upgrade .frella_premiun ul{list-style-image:url(../imagens/circle_premium.png);}
+.main .Screen1 .content .means .create_projects .purchase_upgrade .frella_premiun li{margin-top:20px;}
+.main .Screen1 .content .means .create_projects .purchase_upgrade .frella_premiun .btn_hire_premium{margin-top:50px;width:200px;height:30px;background:#199ED8;cursor:pointer;text-align:center;padding-top:5px;color:#fff;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen1 .content .means .create_projects .purchase_upgrade .frella_premiun .btn_hire_premium:hover{background:#116F97;font-weight:bold;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen1 .content .means .create_projects .upgrade_show_classic{display:none;}
+.main .Screen1 .content .means .create_projects .upgrade_show_premium{display:none;}
+.main .Screen1 .content .means .create_projects .upgrade_classic .ciclo_hr_freelar{background:#FF6600;margin-left:30px;width:70px;height:70px;border-radius:75px;position:absolute;color:#fff;padding:40px;margin-top:40px;font-weight:bold;}
+.main .Screen1 .content .means .create_projects .upgrade_premium .ciclo_hr_freelar{background:#199ED8;margin-left:30px;width:70px;height:70px;border-radius:75px;position:absolute;color:#fff;padding:40px;margin-top:40px;font-weight:bold;}
+
+.main .Screen1 .content .means .chats{margin-left:5px;margin-right:5px;}
+.main .Screen1 .content .means .chats .contacts{width:135px;height:860px;border:solid 1px #ddd;padding-left:5px;overflow:auto;}
+.main .Screen1 .content .means .chats .pcontacts{width:120px;height:120px;border-bottom:solid 1px #ddd;border-left:none;border-right:none;border-top:none;
+margin-top:5px;margin-bottom:5px;cursor:pointer;}
+.main .Screen1 .content .means .chats .Cashier_text{float:right;width:460px;height:692px;border:solid 1px #ddd;margin-top:-862px;overflow:auto;padding-left:10px;}
+.main .Screen1 .content .means .chats .meng{float:right;width:470px;height:160px;margin-top:-162px;}
+.main .Screen1 .content .means .chats .meng textarea{width:466px;height:110px;border:solid 1px #ddd;margin-left:-2px;}
+.main .Screen1 .content .means .chats .meng input[type="submit"]{width:470px;height:40px;border:solid 1px #ddd;background:#fff;margin-left:-2px;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen1 .content .means .chats .meng input[type="submit"]:hover{background:#00BA4A;color:#fff;transition:0.50s;-webkit-transition:0.50s;}
+
+/* end to Screen1 */
+
+.main .Screen2{}
+.main .Screen2 .content{color:#000;}
+.main .Screen2 .content .mask_black{width:100%;height:100%;position:fixed;margin:auto;top:0px;left:0px;display:none;background:#000;opacity:0.80;}
+.main .Screen2 .content .means{width:1024px;position:fixed;top:30%;left:30%;}
+.main .Screen2 .content .means input{color:#666;font-size:17px;}
+.main .Screen2 .content .means input:focus{outline:none;}
+.main .Screen2 .content .means textarea{color:#666;}
+.main .Screen2 .content .means textarea:focus{outline:none;}
+.main .Screen2 .content .means select{color:#666;}
+.main .Screen2 .content .means select:focus{outline:none;}
+
+.main .Screen2 .content .means .justify_cancellation{position:absolute;width:630px;background:#fff;border:solid 1px #ccc;display:none;}
+.main .Screen2 .content .means .justify_cancellation textarea{margin-right:20px;}
+.main .Screen2 .content .means .justify_cancellation .btn_end_cancellation{float:left;margin-left:300px;font-size:15px;width:100px;height:30px;background:#fff;border:solid 1px #ccc;margin-bottom:30px;padding-top:5px;font-weight:bold;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .justify_cancellation .btn_end_cancellation:hover{background:#00BA4A;color:#fff;font-weight:bold;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .justify_cancellation input[type="submit"]{float:right;margin-right:20px;font-size:15px;width:200px;height:35px;background:#fff;border:solid 1px #ccc;margin-bottom:30px;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .justify_cancellation input[type="submit"]:hover{background:#00BA4A;color:#fff;font-weight:bold;transition:0.50s;-webkit-transition:0.50s;}
+
+.main .Screen2 .content .means .add_conclusion{position:absolute;width:500px;background:#fff;border:solid 1px #ccc;display:none;}
+.main .Screen2 .content .means .add_conclusion .btn_end_cancellation{margin-left:150px;font-size:15px;width:100px;height:30px;background:#fff;border:solid 1px #ccc;margin-bottom:30px;padding-top:5px;font-weight:bold;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .add_conclusion .btn_end_cancellation:hover{background:#00BA4A;color:#fff;font-weight:bold;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .add_conclusion .file_arq{display:none;}
+.main .Screen2 .content .means .add_conclusion .btn_upload{width:250px;height:40px;background:#478AF4;margin-bottom:10px;margin-top:10px;color:#fff;cursor:pointer;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .add_conclusion .btn_upload:hover{background:#0C53C9;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .add_conclusion .btn_get{float:left;width:130px;height:35px;background:#fff;border:solid 1px #ccc;transition:0.50s;-webkit-transition:0.50s;cursor:pointer;margin-left:125px;}
+.main .Screen2 .content .means .add_conclusion .btn_get:hover{background:#00BA4A;transition:0.50s;-webkit-transition:0.50s;color:#fff;}
+
+
+.main .Screen2 .content .means .contractor_approval{position:absolute;width:500px;background:#fff;border:solid 1px #ccc;display:none;}
+.main .Screen2 .content .means .contractor_approval .cashier_approval .btn{width:250px;height:40px;margin-bottom:10px;margin-top:10px;color:#fff;cursor:pointer;border:none;}
+.main .Screen2 .content .means .contractor_approval .cashier_approval .btn_approval{background:#009999;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .contractor_approval .cashier_approval .btn_approval:hover{background:#007777;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .contractor_approval .cashier_approval .btn_reproof{background:#006699;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .contractor_approval .cashier_approval .btn_reproof:hover{background:#005680;transition:0.50s;-webkit-transition:0.50s;}
+
+.main .Screen2 .content .means .contractor_approval .approval_freelar{position:absolute;width:500px;background:#fff;border:solid 1px #ccc;display:none;}
+.main .Screen2 .content .means .contractor_approval .approval_freelar .btn{width:150px;height:40px;margin-bottom:10px;margin-top:10px;color:#fff;cursor:pointer;border:none;float:left;margin-left:10px;}
+.main .Screen2 .content .means .contractor_approval .approval_freelar .btn_good{border:solid 1px #00BA4A;background:#fff;color:#00BA4A;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .contractor_approval .approval_freelar .btn_good:hover{background:#00BA4A;color:#fff;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .contractor_approval .approval_freelar .btn_regular{border:solid 1px #FBB03B;background:#fff;color:#FBB03B;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .contractor_approval .approval_freelar .btn_regular:hover{background:#FBB03B;color:#fff;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .contractor_approval .approval_freelar .btn_bad{border:solid 1px #FF0000;background:#fff;color:#FF0000;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .contractor_approval .approval_freelar .btn_bad:hover{background:#FF0000;color:#fff;transition:0.50s;-webkit-transition:0.50s;}
+
+.main .Screen2 .content .means .cashier_balance{position:absolute;width:500px;background:#fff;border:solid 1px #ccc;display:none;}
+.main .Screen2 .content .means .cashier_balance .btn{width:250px;height:35px;margin-bottom:10px;margin-top:10px;color:#fff;cursor:pointer;border:none;padding-top:5px;}
+.main .Screen2 .content .means .cashier_balance .btn_rescue{background:#009999;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .cashier_balance .btn_rescue:hover{background:#007777;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .cashier_balance .btn_cancel{border:solid 1px #ccc;color:#000;background:#fff;transition:0.50s;-webkit-transition:0.50s;}
+.main .Screen2 .content .means .cashier_balance .btn_cancel:hover{background:#00BA4A;color:#fff;transition:0.50s;-webkit-transition:0.50s;}
+
+/* end to Screen2 */
+
+
+
+

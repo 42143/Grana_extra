@@ -1,0 +1,31 @@
+*{margin:0px;}
+html{background-size:cover;background-repeat:no-repeat;background-image:url(../imagens/estrada.jpg);}
+html body{font-family:'DistrictPro-Thin';font-size:20px;color:#fff; height:100%;}
+body a{text-decoration:none;color:#fff;}
+/* Let's get this party started */
+::-webkit-scrollbar {width: 6px;}
+::-webkit-scrollbar-track{-webkit-box-shadow: inset 0 0 6px rgba(96,96,98,0.3);-webkit-border-radius:5px;border-radius:5px;}
+::-webkit-scrollbar-thumb{-webkit-border-radius:5px;border-radius:5px;background: rgba(96,96,98,0.8);
+-webkit-box-shadow: inset 0 0 6px rgba(96,96,98,0.5);}
+::-webkit-scrollbar-thumb:window-inactive{background: rgba(96,96,98,0.4);}
+
+header{position:fixed;background:#3C3733;top:0px;width:100%;height:60px;z-index:3;opacity:0.60;}
+header .content{width:1024px;height:60px;margin:auto;position:relative;}
+header .content .logo{position:absolute;width:150px;height:60px;background-image:url(../imagens/logotipo.png);cursor:pointer;}
+header .content nav{width:290px;height:30px;margin-top:15px;margin-bottom:15px;float:right;}
+header .content nav .menu{width:130px;height:26px;border:solid 1px #fff;cursor:pointer;display:block;text-align:center;
+padding-top:4px;position:absolute;font-size:15px;font-weight:bold;transition:1s;-webkit-transition:1s;}
+header .content nav .menu:hover{background:#fff;color:#423B35;font-weight:bold;transition:1s;-webkit-transition:1s;}
+header .content nav .menu:active{background:#fff;color:#423B35;font-weight:bold;}
+header .content nav .register{margin-left:160px;float:right;}
+header .content nav .close{margin-left:160px;float:right;display:none;}
+header .content nav .create_project{display:none;}
+header .content .nickname{display:none;margin-right:10px;float:right;width:400px;margin-top:15px;text-align:right;}
+
+footer{position:fixed;background:#363233;bottom:0px;width:100%;height:40px;opacity:0.60;z-index:4;font-size:15px;}
+footer .content{width:100%;height:97px;margin-top:auto;margin-right:auto;position:relative;}
+footer .content .map_site{wider:100%;height:67px;display:none;}
+footer .content .map_site img{margin-left:50px;}
+footer .content .menu_language{wider:1024px;height:25px;margin-top:10px;}
+footer .content .menu_language ul{list-style:none;text-decoration:none;}
+footer .content .menu_language li{float:left;margin-left:30px;}

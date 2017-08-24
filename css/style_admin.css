@@ -1,0 +1,63 @@
+*{margin:0px;padding:0px;}
+body{font-family:arial;}
+/* Let's get this party started */
+::-webkit-scrollbar {width: 6px;}
+::-webkit-scrollbar-track{-webkit-box-shadow: inset 0 0 6px rgba(96,96,98,0.3);-webkit-border-radius:5px;border-radius:5px;}
+::-webkit-scrollbar-thumb{-webkit-border-radius:5px;border-radius:5px;background: rgba(96,96,98,0.8);
+-webkit-box-shadow: inset 0 0 6px rgba(96,96,98,0.5);}
+::-webkit-scrollbar-thumb:window-inactive{background: rgba(96,96,98,0.4);}
+/* cod da pagina login_admin.php*/
+.content .pagina_login .login{width:400px;height:320px;top:120px;position:relative;margin:auto;background:#666;border-right:solid #333 30px;}
+.content .pagina_login .login .login_admin{width:200px;margin:auto;position:relative;top:80px;color:#fff;margin-left:80px;border:none;}
+.content .pagina_login .login .icon{width:30px;height:29px;position:absolute;background-repeat:no-repeat;margin-left:253px;}
+.content .pagina_login .login .icon1{background-image:url(../imagens/login_admin_icon1.png);margin-top:20px;}
+.content .pagina_login .login .icon2{background-image:url(../imagens/login_admin_icon2.png);margin-top:90px;}
+.content .pagina_login .login .logo_grana_extra{width:168px;height:75px;position:absolute; margin-left:40px;margin-top:-80px;background-image:url(../imagens/logo_admin_2.png);}
+.content .pagina_login .login .campo_login{width:250px;height:34px;background:none;color:#fff;border:solid 1px #fff;}
+.content .pagina_login .login .btn_login{width:250px;height:41px;background:none;border:solid 1px #fff;color:#fff;transition:0.6s;}
+.content .pagina_login .login .btn_login:hover{background:#00cc00;border:none;transition:0.6s;}
+/* cod fim*/
+/* cod  da pagina admin.php*/
+.content .admin .mean{width:1150px;margin:auto;}
+.content .admin .mean .head{width:100%px;height:75px;}
+.content .admin .mean .fixed_caixa{width:100%px;height:680px;}
+.content .admin .mean .caixa{width:800px;height:150px;background:#ccc;}
+.content .admin .mean .caixa_adm{height:230px;display:none;}
+.content .admin .mean .caixa .header{width:100%;height:25px;background:#333;color:#fff;padding-top:10px;}
+.content .admin .mean .caixa .header span{margin-left:15px;}
+.content .admin .mean .caixa .campo{width:450px;height:30px;float:right;margin-bottom:10px;}
+.content .admin .mean .caixa .btn{width:150px;border:none;height:25px;background:#009900;color:#fff;float:right;margin-left:10px;margin-right:25px;}
+.content .admin .mean .caixa .btn_fun{margin-top:21px;}
+.content .admin .mean .fixd_right{width:340px;height:680px;float:right;margin-top:-683px;margin-left:20px;}
+.content .admin .mean .caixas_right{width:330px;}
+.content .admin .mean .caixas_right .cx_right_user{width:330px;height:150px;}
+.content .admin .mean .caixas_right .cx_right_cout{width:330px;height:450px;}
+.content .admin .mean .caixas_right .cx_right_cout .valor_classic .campo_plano{width:170px;height:40px;margin-bottom:10px;}
+.content .admin .mean .caixas_right .cx_right_cout .valor_premuim .campo_plano{width:170px;height:40px;margin-bottom:10px;}
+.content .admin .mean .caixas_right .cx_right_cout .valor_classic  .btn{margin-bottom:10px;}
+.content .admin .mean .caixas_right .cx_right_cout .valor_premuim .btn{margin-bottom:10px;}
+
+.content .admin .mean .relatorios{width:1150px;height:400px;color:#fff;background:#ccc;margin-top:30px;}
+.content .admin .mean .relatorios .header{width:100%;height:25px;background:#333;color:#fff;padding-top:10px;}
+.content .admin .mean .relatorios .header span{margin-left:15px;}
+.content .admin .mean .relatorios .header_tema{width:100%;height:35px;background:#666;color:#fff;}
+.content .admin .mean .relatorios .rows{width:100%;height:25px;padding-top:10px;border-bottom:solid 1px #999;}
+.content .admin .mean .relatorios .header_tema .cols{width:140px;float:left;text-align:center;margin-top:9px;}
+.content .admin .mean .relatorios .table .cols{width:140px;float:left;text-align:center;margin-top:9px;color:#000;}
+.content .admin .mean .relatorios .table{width:100%;height:340px;overflow:auto;}
+.content .admin .mean .relatorios .table .btn_flag{border:none;background:none;font-size:15px;text-decoration:underline;}
+.content .admin .mean .relatorios .table .aprovado{color:#C60000;}
+.content .admin .mean .relatorios .table .aprovado:hover{color:#FF0000;}
+.content .admin .mean .relatorios .table .pago{color:#249100;}
+.content .admin .mean .relatorios .table .pago:hover{color:#34CE00;}
+
+/* cod*/
+
+ 
+
+
+
+
+
+
+

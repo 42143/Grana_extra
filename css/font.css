@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'DistrictPro-Thin';
+  src: url('DistrictPro-Thin.eot');
+  src: url('DistrictPro-Thin.woff2') format('woff2'),
+       url('DistrictPro-Thin.woff') format('woff'),
+       url('DistrictPro-Thin.ttf') format('truetype'),
+       url('DistrictPro-Thin.svg#DistrictPro-Thin') format('svg'),
+       url('DistrictPro-Thin.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
